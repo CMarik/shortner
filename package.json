@@ -1,0 +1,15 @@
+{
+  "name": "shortner",
+  "version": "1.0.0",
+  "description": "shortens URLs",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vlad k",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.400.0",
+    "shortid": "^2.2.14"
+  }
+}
